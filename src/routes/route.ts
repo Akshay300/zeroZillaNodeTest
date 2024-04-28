@@ -24,4 +24,4 @@ app.use(bodyParser.json());
   }
 })();
 
-export { app };
+
